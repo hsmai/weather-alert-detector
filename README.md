@@ -113,14 +113,12 @@
 ## Repository Structure
 
     .
-    ├─ docs/
-    │  └─ spec.pdf
     ├─ notebooks/
     │  └─ source_code.ipynb
     ├─ data/
     │  ├─ raw/
     │  │  └─ OBS_ASOS_TIM_20240101_20241231.csv
-    │  └─ val/
+    │  └─ sample/
     │     └─ val_data.csv
     └─ outputs/
        └─ incheon_alerts_2024.csv
